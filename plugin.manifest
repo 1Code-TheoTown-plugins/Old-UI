@@ -1,0 +1,11 @@
+{
+	"id":"$old_ui",
+	"version":6,
+	"title":"Old UI",
+	"text":"",
+	"author":"1Code",
+	"category":false,
+	"thumbnail":"manifest thumbnail.png",
+	"url":"https://github.com/1Code-TheoTown-plugins/Old-UI/",
+	"multiplayer":true
+}

@@ -1,0 +1,31 @@
+[
+	{
+		"id":"$old_city_ui00",
+		"type":"script",
+		"script":"old city ui.lua"/*,
+		"script":"#LuaWrapper",
+		"meta":{
+			"luawrapper":{
+				"script":"old city ui.lua",
+				"dev":true
+			}
+		}*/
+	},
+	{
+		"id":"$old_region_ui00",
+		"type":"script",
+		"script":"old region ui.lua"/*,
+		"script":"#LuaWrapper",
+		"meta":{
+			"luawrapper":{
+				"script":"old region ui.lua",
+				"dev":true
+			}
+		}*/
+	},
+	{
+		"id":"$old_ui_if00",
+		"type":"animation",
+		"frame":{"x":0,"y":0,"w":0,"h":0,"count":9}
+	}
+]
